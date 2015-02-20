@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList include="x19-base.xml">
+
+ <sim>
+
+  <description>Curtiss-Wright X-19 (YASim)</description>
+  <flight-model>yasim</flight-model>
+  <aero>x19-yasim</aero>
+
+ </sim>
+
+ <yasim>
+   <me262>
+     <pilot-lb>128</pilot-lb>
+   </me262>
+ </yasim>
+
+</PropertyList>
+

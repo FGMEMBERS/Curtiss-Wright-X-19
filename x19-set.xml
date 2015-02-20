@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- <PropertyList include="x19-jsbsim-cnf.xml"> -->
+<PropertyList include="x19-yasim-cnf.xml">
+
+  <sim>
+    <description>Curtiss-Wright X-19</description>
+    <author>Emmanuel BARANGER (3D/FDM)</author>
+  </sim>
+
+</PropertyList>
+
